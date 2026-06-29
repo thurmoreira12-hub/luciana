@@ -1,0 +1,1 @@
+Adicione suas fotos na pasta img e uma musica.mp3 na pasta music.
